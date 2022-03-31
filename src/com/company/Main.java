@@ -7,7 +7,6 @@ public class Main {
         // the basic structure
         CarBasics car=new CarBasics();
 
-
         car.color="green";
         car.number="7898848549";
         car.engine="544444343434cc";
